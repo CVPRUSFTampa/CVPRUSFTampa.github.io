@@ -13,7 +13,11 @@ You can find more information at the schools website [http://marathon.csee.usf.e
 ### Contact Us
 
 [Sudeep Sarkar sarkar@usf.edu](mailto:sarkar@usf.edu)
+
 [Sathya Aakur saakur@mail.usf.edu](mailto:saakur@mail.usf.edu)
+
 [Daniel Sawyer danielsawyer@mail.usf.edu](mailto:danielsawyer@mail.usf.edu)
+
 [Gilbert Rotich grotich@mail.usf.edu](mailto:grotich@mail.usf.edu)
+
 [Michal Balazia balazia@mail.usf.edu](mailto:balazia@mail.usf.edu)
