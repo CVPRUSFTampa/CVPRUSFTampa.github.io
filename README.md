@@ -1,6 +1,6 @@
 # USF Tampa Vision Lab Blog
 
-Link to our blog: [http://USFTampaVL.com](http://usftampavl.com)
+Link to our blog: [http://USFTampaVL.com](http://www.usftampavl.com)
 
 This is our blog repo. We use Jekyll, which you can find more info about bellow...
 
