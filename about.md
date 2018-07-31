@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to University of South Florida Vision Lab's Blog!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You can find more information at the schools website [http://marathon.csee.usf.edu/](http://marathon.csee.usf.edu/)
 
 ### Contact me
 
